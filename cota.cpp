@@ -1,9 +1,4 @@
-#include<bits/stdc++.h> 
-using namespace std;
-
-int main()
-{
-    cout << "Hell myh frien";
-
-
-}
+//sakphgfg;asjklg;adkljgit git
+//gadujipgyhioad
+//fgadiohhigad
+//ghiadghuida
